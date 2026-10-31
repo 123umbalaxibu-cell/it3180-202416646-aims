@@ -7,3 +7,4 @@ cart.add_dvd(DigitalVideoDisc("Star Wars", "Science Fiction", "George Lucas", 12
 cart.add_dvd(DigitalVideoDisc("Aladdin", "Animation", "John Musker", 90, 18.99))
 
 print(f"Total cost: {cart.total_cost():.2f} $")
+cart.print_cart()
