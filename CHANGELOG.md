@@ -8,6 +8,11 @@ All notable changes to this project will be documented in this file.
 * Add DVD search by category.
 * Add unit tests for search_by_category.
 
+## [1.0.1] - 2026-11-05
+
+### Fixed
+* Make search_by_title case-insensitive.
+
 ## [1.0.0] - 2026-11-04
 
 ### Added
